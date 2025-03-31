@@ -6,14 +6,14 @@
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
   <updated>2025-03-31T17:14:59+09:00</updated>
   <author>
-    <name>한하은은</name>
+    <name>한하은</name>
     <uri>https://haeun82.github.io/</uri>
   </author>
   <link rel="self" type="application/atom+xml" href="https://haeun82.github.io/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="ko-KR"
     href="https://haeun82.github.io/"/>
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
-  <rights> © 2025 한하은은 </rights>
+  <rights> © 2025 한하은 </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
@@ -29,7 +29,7 @@
     <id>https://haeun82.github.io/posts/welcome-to-jekyll/</id>
     <content type="text/html" src="https://haeun82.github.io/posts/welcome-to-jekyll/" />
     <author>
-      <name>한하은은</name>
+      <name>한하은</name>
     </author>
 
   
